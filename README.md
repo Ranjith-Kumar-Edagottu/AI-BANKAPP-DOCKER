@@ -69,7 +69,7 @@ http://localhost:8080
 
 To monitor live application logs:
 
-dockor compose logs -f bankapp
+docker compose logs -f bankapp
 
 🛑 Managing Containers
    - Stop services without removing data:
