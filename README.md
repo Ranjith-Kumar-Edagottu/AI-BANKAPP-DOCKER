@@ -86,4 +86,4 @@ docker compose down
 
 - Full reset (remove containers, networks, and database/model volumes):
 
-docker compose down -y
+docker compose down -v
